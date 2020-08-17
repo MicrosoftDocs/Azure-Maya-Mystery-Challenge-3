@@ -12,7 +12,7 @@ Hint: you learned 'Muyal' in Level 1 of the Mystery, 'Yax' in Level 2, and 'Nah'
 
 Here is the base image to test:
 
-![title glyph][images/title.png]
+![title glyph](images/title.png)
 
 In the `images` folder you'll find other glyphs to try. Can you discover a pattern?
 
